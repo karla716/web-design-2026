@@ -14,3 +14,6 @@ body{
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+.container  {
+  display:  flex;
+}  
