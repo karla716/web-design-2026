@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html>
+
+<head>
+<link href="style.css">
+</head>
+
 <body>
 
 <article>
   <header>
-    <h1>A heading here</h1>
+    <h>A heading here</h1>
     <p>Posted by John Doe</p>
     <p>Some additional information here</p>
   </header>
