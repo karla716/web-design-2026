@@ -6,14 +6,13 @@ body{
 }
 
 
-#thisIsAnId{
-  .merriweather-<uniquifier> {
+#thisIsAnId {
   font-family: "Merriweather", serif;
   font-optical-sizing: auto;
-  font-weight: <weight>;
+  
   font-style: normal;
   font-variation-settings:
-    "wdth" 100;
+    "wdth" 100;}
 .container  {
   display:  flex;
   gap:  100px;
