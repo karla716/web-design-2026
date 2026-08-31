@@ -21,12 +21,4 @@ body{
   display:  flex;
   gap:  100px;
 }  
-<button  id="myButton">Click  Me</button>
-<p  id="message">Hello!</p>
 
-<scrpit"
-document.getElementByld("myButton").addEventsListener(click",  function() {
-  document.getElementByld("message").textContent = "You clicked the button!";
-});
-
-</script>
